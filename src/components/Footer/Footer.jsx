@@ -26,7 +26,7 @@ const Footer = () => {
             <h1>Address:</h1>
           </Slide>
           <Slide direction="left">
-            <p>1030 Southwood Dr San Luis Obispo, California(CA), 93401</p>
+            <p>Lot IVJ116 Ambohimiadana Avaratra Ambohimanarina</p>
           </Slide>
         </div>
         <div className="links">
@@ -38,7 +38,7 @@ const Footer = () => {
               <FiPhoneCall />
             </span>
             <Slide direction="left">
-              <a href="tel:+4733378901">+47 333 78 901</a>
+              <a href="tel:+261325512897">+261 34 36 353 93</a>
             </Slide>
           </div>
           <div>
@@ -48,7 +48,7 @@ const Footer = () => {
               </span>
             </Slide>
             <Slide>
-              <a href="mailto:miladamiri@gmail.com">miladamiri@gmail.com</a>
+              <a href="mailto:ando.andoniaina.nantenaina@esti.mg">ando.andoniaina.nantenaina@esti.mg</a>
             </Slide>
           </div>
         </div>
@@ -59,7 +59,7 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a href="/">
+                <a href="https://github.com/AndoniainaNantenaina">
                   <AiFillGithub />
                 </a>
               </span>
@@ -73,7 +73,7 @@ const Footer = () => {
             </Zoom>
             <Zoom>
               <span>
-                <a href="/">
+                <a href="https://facebook.com/Andoniaina01Nomenjanahary">
                   <BsFacebook />
                 </a>
               </span>
